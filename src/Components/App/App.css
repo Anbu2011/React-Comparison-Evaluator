@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  padding-top: 8rem;
+  min-width: 320px;
+  min-height: 100vh;
+}
